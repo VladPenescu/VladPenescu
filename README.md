@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width ="24px"> &nbsp; Buna siua (Hello World) &nbsp;
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width ="24px"> &nbsp; Buna ziua (Hello World) &nbsp;
 
 ### Who am I?
 Glad you asked. I've graduated with a degree in Electrical Engineering & Embedded Systems from the E.T.T.I section of the University Politehnica of Bucharest. While my academic journey through transistors and embedded firmware was "cool", I've started working into other types of software development, such as machine learning, web development and video games.<br>
@@ -10,7 +10,7 @@ I consider myself a hard-working individual who's passionate about the projects 
 - 🌱 &nbsp; I'm learning software most of my time, from general concepts to simple/medium projects.
 - 💬 &nbsp; Ask me about anything, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/vlad-penescu/)
-- 🔨 &nbsp; Also I use Arch btw, btw (by the way)
+- 🔨 &nbsp; Also I use Arch btw
   
 
 ### Languages & Tools Preference
