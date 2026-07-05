@@ -1,8 +1,7 @@
 ### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width ="24px"> &nbsp; Buna ziua (Hello World) &nbsp;
 
 ### Who am I?
-Glad you asked. I've graduated with a degree in Electrical Engineering & Embedded Systems from the E.T.T.I section of the University Politehnica of Bucharest. While my academic journey through transistors and embedded firmware was "cool", I've started working into other types of software development, such as machine learning, web development and video games.<br>
-I consider myself a hard-working individual who's passionate about the projects I work on. I love exploring new technologies and collaborating with teams to leverage them in solving real-life problems. Also, I have three cockatiels and a bunny! 🦜🦜🦜🐇
+I graduated from the University Politehnica of Bucharest (UPB), within the E.T.T.I. faculty with additional coursework in Automatic Control and Computer Science faculty. While my academic background provided a strong technical foundation, particularly in embedded systems and signal processing, I later expanded my interests into other areas of software development such as data science, machine learning, web development and game development. I consider myself a hardworking and curious individual, passionate about the projects I take on. I enjoy exploring new technologies and collaborating with others to build practical solutions to real-world problems. Also, I have three cockatiels and a bunny! 🦜🦜🦜🐇
 
 ###  More About Me:
 - 🔭 &nbsp; I’m currently working on **Software stuff** and a **Game projects**;
